@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+}
+
+.campo-a-tendina {
+  position: relative;
+}
+
+input {
+  min-width: 318px;
+}
+
+ul {
+  border: 1px solid lightgray;
+  margin: 0;
+  position: absolute;
+  box-shadow: 0 4px 4px 8px rgb(0,0,0,0);
+  max-height: 200px;
+  max-width: 322px;
+  overflow-y: auto;
+}
+
